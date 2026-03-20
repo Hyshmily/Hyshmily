@@ -1,10 +1,5 @@
  <div align="center">
-<h1>
-     Hi I'm Shmily
-</h1>
-<h3>
-     from SWUFE 
-</h3>
+
    <br>
    
  
