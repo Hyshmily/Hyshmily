@@ -20,5 +20,4 @@
 
   *Currently learning: JavaWeb & JVM*
 
-  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=Hyshmily&theme=github-compact&hide_border=true&hide_title=true&bg_color=00000000" />
 </div>
