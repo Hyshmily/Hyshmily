@@ -18,11 +18,6 @@
    
 </p>
 
-<div align="center">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devSouvik/devSouvik@master/gif3.gif" width="500"/>
-  
- <br/>
 
 <div align="center">
  
