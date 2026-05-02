@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_|_MVC_|_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot|_Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/MyBatis_|_plus-000000?style=flat&logo=mybatis&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 </p>
