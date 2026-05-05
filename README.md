@@ -1,7 +1,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+I'm+Shmily!+;Java+full-stack+;plus+Agent+development" />
 </h1>
-
 <p align="center">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
