@@ -19,5 +19,6 @@
 <div align="center">
  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HyShmily&theme=transport&hide_border=true)
+  <img src="feibi.jpg" width="200" alt="Fei Bi">
   
 </div>
